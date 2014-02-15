@@ -1,7 +1,7 @@
 #アメブロ画像ゲッター
 田中美保ちゃんの画像を収集したかったので、ブックマークレットを作ってみた。  
 ###使い方
-適当なブックマークレットのURLを編集して使います。ブックマークを右クリックして、URL欄に下記を入れます。   
+適当なブックマークレットのURLを編集して使います。ブックマークを右クリック→編集...→URL:に下記を入れます。   
 
 
 ```
@@ -20,9 +20,12 @@ javascript:url=document.getElementById('imgEncircle').firstChild.getAttribute('s
 ![my image](public/after.png)
 このようにダウンロードできます。
 
-GoogleChrome 32.0.17で動作確認。  
+GoogleChrome 32.0.17で動作確認。使用は自己責任でお願いします。  
 
+###連絡先
 質問等があれば  
-[endotakashi1992@icloud.com](endotakashi1992@icloud.com)  
+<endotakashi1992@icloud.com>  
 [@kyouzyuuuuuuuu1](https://twitter.com/kyouzyuuuuuuuu1)  
-まで。お気軽にどうぞ。
+まで。お気軽にどうぞ。  
+![my image](public/face.png)  
+author:遠藤孝志  
